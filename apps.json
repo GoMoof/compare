@@ -1,7 +1,7 @@
 {
     "gomoof": {
         "label": "GoMoof",
-        "icon": "/gomoof.png",
+        "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/gomoof.png",
         "features": [
             "price",
             "platform",
@@ -65,7 +65,7 @@
     },
     "vanmoof": {
         "label": "VanMoof",
-        "icon": "/vanmoof.png",
+        "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/vanmoof.png",
         "features": [
             "price",
             "officialProduct",
@@ -95,7 +95,7 @@
     },
     "other": {
         "label": "Other Apps",
-        "icon": "/others.png",
+        "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/others.png",
         "features": [
             "price",
             "platform",
