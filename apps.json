@@ -4,7 +4,6 @@
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/gomoof.png",
         "features": [
             "price",
-            "platform",
             "languages",
             "autoSpeedLimit",
             "changeSpeedLimit",
@@ -93,12 +92,19 @@
             "firmwareUpdates"
         ]
     },
+    "moofmate": {
+        "label": "MoofMate",
+        "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/others.png",
+        "features": [
+            "price",
+            "languages",
+        ]
+    },
     "other": {
         "label": "Other Apps",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/others.png",
         "features": [
             "price",
-            "platform",
             "languages",
             "changeSpeedLimit",
             "assistLevelControl",
