@@ -94,7 +94,7 @@
     },
     "moofmate": {
         "label": "MoofMate",
-        "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/others.png",
+        "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/moofmate.png",
         "features": [
             "price",
             "languages"
