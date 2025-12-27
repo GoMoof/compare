@@ -141,7 +141,8 @@
             "soundboard",
             "muteSounds",
             "theftTracking",
-            "standaloneConnection"
+            "standaloneConnection",
+            "rangeEstimation"
         ]
     },
     "other": {
