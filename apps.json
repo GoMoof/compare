@@ -111,12 +111,14 @@
             "chargingEstimation",
             "localBatteryNotifications",
             "bikeRename",
+            "manualShiftingSA5",
             "manualShiftingSX3",
             "gearControl",
             "calibrateGears",
             "rainbowMode",
             "haloRingSettings",
             "decelerationLightSA5",
+            "decelerationLightSX3",
             "lightHornSA5",
             "lightHornSX3",
             "disabledBellSound",
@@ -137,7 +139,9 @@
             "powerBankSupport",
             "uploadSound",
             "soundboard",
-            "muteSounds"
+            "muteSounds",
+            "theftTracking",
+            "standaloneConnection"
         ]
     },
     "other": {
