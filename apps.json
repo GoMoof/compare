@@ -147,7 +147,9 @@
             "muteSounds",
             "theftTracking",
             "standaloneConnection",
-            "rangeEstimation"
+            "rangeEstimation",
+            "repairMode",
+            "customButtonActions"
         ]
     },
     "other": {
