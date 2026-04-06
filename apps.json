@@ -64,7 +64,10 @@
             "uploadSound",
             "soundboard",
             "muteSounds",
-            "customButtonActions"
+            "customButtonActions",
+            "daylight",
+            "batteryCapacity",
+            "internalBatteryLevelSO6"
         ]
     },
     "vanmoof": {
