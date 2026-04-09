@@ -67,7 +67,9 @@
             "customButtonActions",
             "daylight",
             "batteryCapacity",
-            "internalBatteryLevelSO6"
+            "internalBatteryLevelSO6",
+            "connectionFlowSO6",
+            "standaloneConnectionSO6"
         ]
     },
     "vanmoof": {
