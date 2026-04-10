@@ -47,6 +47,7 @@
             "buttonStates",
             "connectionFlow",
             "sensorReadings",
+            "sensorReadingsSX3",
             "standaloneConnection",
             "heartBeats",
             "internalBatteryLevel",
@@ -65,6 +66,7 @@
             "soundboard",
             "muteSounds",
             "customButtonActions",
+            "customButtonActionsSX3",
             "daylight",
             "batteryCapacity",
             "internalBatteryLevelSO6",
@@ -135,6 +137,7 @@
             "disabledLightMode",
             "buttonStates",
             "sensorReadings",
+            "sensorReadingsSX3",
             "heartBeats",
             "batteryHealth",
             "partlyLightControl",
@@ -154,7 +157,8 @@
             "standaloneConnection",
             "rangeEstimation",
             "repairMode",
-            "customButtonActions"
+            "customButtonActions",
+            "customButtonActionsSX3",
         ]
     },
     "other": {
