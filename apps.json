@@ -100,7 +100,8 @@
             "matrixDisplaySettings",
             "shippingMode",
             "powerBankSupport",
-            "firmwareUpdates"
+            "firmwareUpdates",
+            "standaloneConnectionSO6"
         ]
     },
     "moofmate": {
