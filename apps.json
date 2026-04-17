@@ -8,7 +8,6 @@
       "features.autoSpeedLimit",
       "features.changeSpeedLimit",
       "features.assistLevelControl",
-      "quickSettings",
       "features.customizableQuickSettings",
       "features.multiConnection",
       "features.multiAccount",
@@ -110,7 +109,6 @@
     "features": [
       "features.changeSpeedLimit",
       "features.assistLevelControl",
-      "quickSettings",
       "features.rideTracking",
       "features.appleHealthIntegration",
       "features.maintenanceServiceSystem",
