@@ -118,6 +118,8 @@
     "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/moofmate.png",
     "features": [
       "features.changeSpeedLimit",
+      "features.autoSpeedLimit",
+      "features.rideTracking",
       "features.rideTracking",
       "features.appleHealthIntegration",
       "features.maintenanceServiceSystem",
@@ -130,11 +132,17 @@
       "features.chargingEstimation",
       "features.localBatteryNotifications",
       "features.bikeRename",
+      "features.customGearShifting",
       "features.gearControl",
       "features.theftTracking",
       "features.rangeEstimation",
       "features.repairMode",
       "features.assistLevelControl",
+
+      "so6.internalBatteryLevel",
+      "so6.batteryCapacity",
+      "so6.standaloneConnection",
+      "so6.lightmodeCircle",
 
       "sa5.speedLimit",
       "sa5.sensorReadings",
