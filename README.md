@@ -1,5 +1,5 @@
 # compare
-This repository contains the feautre comparison data for our website.
+This repository contains the feature comparison data for our website.
 
 # Introduction
 On website, we have a compare features section, where we compare our app vs. the original app vs. apps by other developers. If you are such a developer, you can add your app to the comparison here. In this section, you'll learn how to add your app.
